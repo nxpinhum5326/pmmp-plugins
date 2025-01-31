@@ -6,10 +6,10 @@ all my creation for pmmp(maybe?)
 ## Here are the ones I was able to collect & rebuild (may be updated):
 - SkyBlock
 - AuthPE
-- TrollXD
-- VillagerNames
-- Snowfall
-- pmmpBuilder (non-plugin)
+- [TrollXD](https://github.com/nxpinhum5326/TrollXD)
+- [VillagerNames](https://github.com/nxpinhum5326/VillagerNames)
+- [Snowfall](https://github.com/nxpinhum5326/Snowfall)
+- [pmmpBuilder (non-plugin)](https://github.com/nxpinhum5326/pmmpBuilder)
 - Vaults
 - Bounty
 - ColorfulChat
